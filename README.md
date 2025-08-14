@@ -38,7 +38,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/sciesco.git
+git clone https://github.com/dkavargy/sciesco.git
 cd sciesco
 pip install -r requirements.txt
 ```
