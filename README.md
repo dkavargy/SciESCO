@@ -32,13 +32,6 @@
 - 📊 **Skill Disruption Metrics** (mortality, novelty, centrality, etc.)  
 - 📦 Modular, extensible design for your own datasets  
 
----
-
-## 📸 Screenshots
-
-| Skill–Domain Graph | Emerging Skills | Disruptive Skills |
-|--------------------|-----------------|-------------------|
-| ![graph](assets/graph.png) | ![growth](assets/growth.png) | ![weak](assets/weak.png) |
 
 ---
 
