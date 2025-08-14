@@ -2,7 +2,7 @@
 
 > A GNN-powered framework for mapping, predicting, and analyzing skill–domain links in scientific software development (SSD)
 
-![License](https://img.shields.io/github/license/yourusername/sciesco)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyTorch Geometric](https://img.shields.io/badge/Framework-PyTorchGeometric-green)
 ![Status](https://img.shields.io/badge/Status-ResearchPrototype-orange)
