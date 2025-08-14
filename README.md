@@ -17,6 +17,9 @@
 - Predict emerging or disappearing links using Graph Neural Networks (GNNs)
 - Support science policy, curriculum design, and upskilling strategy
 
+![SCIESCO Graph](images/Sci_esco_graph%20(1).png)
+
+
 > Developed as part of the [SKILLAB EU Project](https://skillab.eu/), and validated on real SSD publications & policies.
 
 ---
