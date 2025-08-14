@@ -47,7 +47,7 @@ sciesco/
 ├── data/                  # Sample datasets
 ├── notebooks/             # Jupyter notebooks for exploration
 ├── src/                   # Core code (models, utils, pipeline)
-├── assets/                # Images for README/plots
+├── images/                # Images for README/plots
 ├── requirements.txt       # Dependencies
 └── README.md              # This file
 ```
